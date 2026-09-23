@@ -2,7 +2,18 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=ABIN%20BINOY&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 </div>
+<!-- Contribution Snake -->
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
 <!-- Profile Views & Followers -->
 <div align="center">
   
@@ -39,18 +50,7 @@
 
 <br/>
 
-<!-- Contribution Snake -->
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<br/>
 
 <!-- GitHub Summary Card -->
 <div align="center">
